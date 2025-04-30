@@ -141,6 +141,10 @@ Additionally, `Ativos_cointegrados_residuos_YYYY_MM_DD_HH_MM_SS.csv` contains re
 
 These files are saved in the `PLANILHAS` directory with timestamps for versioning.
 
+## Dashboard View (example)
+
+![dashboard](https://github.com/rgiovann/image-repo/blob/main/dashboard.jpg)
+
 ## Project Structure
 ```
 long-short-cointegration/
