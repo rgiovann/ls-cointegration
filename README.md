@@ -1,14 +1,10 @@
-Below is a revised `README.md` for your Python project, incorporating the details from `QuantUtilities.py` and adhering to your request to avoid including instructions on how to run the project. The README focuses on describing what the project does, its technical components, and its purpose, tailored for a GitHub audience. It also includes a mention of the hardcoded Excel table columns as required.
-
----
-
 # Long-Short Cointegration Analysis
 
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-archived-yellow.svg)
 
-This project implements a quantitative finance pipeline designed to identify cointegrated asset pairs for Long-Short trading strategies on the Brazilian stock exchange (B3). It processes historical price data from Tryd (a trading platform), performs statistical tests to detect cointegration, and generates detailed reports to select optimal asset pairs based on cointegration parameters, spread behavior, and Bollinger Bands' stability. The project was developed as an academic exercise and is archived as of April 2025.
+This (old) project implements a quantitative finance pipeline designed to identify cointegrated asset pairs for Long-Short trading strategies on the Brazilian stock exchange (B3). It processes historical price data from Tryd (a trading platform), performs statistical tests to detect cointegration, and generates detailed reports to select optimal asset pairs based on cointegration parameters, spread behavior, and Bollinger Bands' stability. The project was developed as an academic exercise and is archived as of April 2025.
 
 ## Table of Contents
 - [Overview](#overview)
