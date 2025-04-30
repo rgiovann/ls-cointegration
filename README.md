@@ -17,7 +17,6 @@ This project implements a quantitative finance pipeline designed to identify coi
 - [Excel Output Structure](#excel-output-structure)
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
-- [License](#license)
 - [Author](#author)
 
 ## Overview
