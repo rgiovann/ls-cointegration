@@ -169,22 +169,7 @@ long-short-cointegration/
 - `sklearn`: Linear regression.
 - `warnings`: Suppresses specific warnings during execution.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Author
 - **Giovanni Leopoldo Rozza**
-  - GitHub: [github.com/yourusername](https://github.com/yourusername)
-  - Email: giovanni.rozza@example.com
+  - GitHub: [github.com/rgiovann](https://github.com/rgiovann)
   - LinkedIn: [linkedin.com/in/giovanni-rozza](https://linkedin.com/in/giovanni-rozza)
-
----
-
-### Notes
-- The status badge is set to "archived" as per your indication that this is an old project.
-- The `Excel Output Structure` section details the hardcoded columns from `LSCointegracao.py`, specifically from the `ativos_cointegrados_csv` and `residuos_pass_csv` lists.
-- `QuantUtilities.py` functions (e.g., RSI, `acha_idx_max_min`, `get_Z_alfa`) are described where relevant, but not all are directly used in the cointegration pipeline (e.g., RSI is not referenced in the main scripts).
-- No replication instructions are included, as requested.
-- Replace `yourusername` and contact details with your actual information.
-- Add a `LICENSE` file to the repository if not already present.
-- If you want to highlight specific aspects (e.g., academic context, specific B3 assets), let me know, and I can refine further!
